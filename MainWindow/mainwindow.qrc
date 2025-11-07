@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>resource/images/icons/Maximize.svg</file>
+        <file>resource/images/icons/Minimize.svg</file>
+        <file>resource/images/icons/Settings.svg</file>
+        <file>resource/images/icons/SmallMinimizeWindow.svg</file>
+        <file>resource/images/icons/SmallMaximizeWindow.svg</file>
+        <file>resource/images/icons/SolarSubtitlesLinear.svg</file>
+        <file>resource/images/icons/Pause.svg</file>
+        <file>resource/images/icons/Play.svg</file>
+        <file>resource/images/icons/VolumeHigh.svg</file>
+        <file>resource/images/icons/VolumeLow.svg</file>
+        <file>resource/images/icons/VolumeMiddle.svg</file>
+        <file>resource/images/icons/FormatError.svg</file>
+        <file>resource/images/icons/VolumeMute.svg</file>
+        <file>resource/images/icons/VolumeOff.svg</file>
+        <file>resource/images/icons/SpeedLoop.svg</file>
+        <file>resource/images/icons/MingcuteBackFill.svg</file>
+        <file>resource/xml/mediaInvalid.xml</file>
+        <file>resource/xml/mediaExceptions.xml</file>
+        <file>resource/images/icons/MaterialSymbolsErrorMedOutline.svg</file>
+        <file>resource/images/icons/LetsIconsBlankAlt.svg</file>
+        <file>resource/xml/mediaDoesNotExist.xml</file>
+    </qresource>
+</RCC>

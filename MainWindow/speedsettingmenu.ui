@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SpeedSettingMenuClass</class>
+ <widget class="QMenu" name="SpeedSettingMenuClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>SpeedSettingMenu</string>
+  </property>
+  <property name="title">
+   <string/>
+  </property>
+  <action name="action_0_25">
+   <property name="text">
+    <string>速度 × 0.25</string>
+   </property>
+  </action>
+  <action name="action_0_5">
+   <property name="text">
+    <string>速度 × 0.5</string>
+   </property>
+  </action>
+  <action name="action_0_75">
+   <property name="text">
+    <string>速度 × 0.75</string>
+   </property>
+  </action>
+  <action name="action_1_0">
+   <property name="text">
+    <string>速度 × 1.0</string>
+   </property>
+  </action>
+  <action name="action_1_25">
+   <property name="text">
+    <string>速度 × 1.25</string>
+   </property>
+  </action>
+  <action name="action_1_5">
+   <property name="text">
+    <string>速度 × 1.5</string>
+   </property>
+  </action>
+  <action name="action_1_75">
+   <property name="text">
+    <string>速度 × 1.75</string>
+   </property>
+  </action>
+  <action name="action_2_0">
+   <property name="text">
+    <string>速度 × 2.0</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
